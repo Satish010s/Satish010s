@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Satish kumar
-**Aspiring Software Engineer |||| Kafka Admin from India**
+**Aspiring Software Engineer || Building Strong DSA Foundations|| Learning Java Development**
 
 Email Me 👉 ✉️ **satishkumaryadav9905@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
