@@ -123,9 +123,5 @@ I'm passionate about building efficient software, solving challenging problems, 
 ---
 
 <p align="center">
-  <i>💡 Keep learning, keep building, and keep growing!</i>
-</p>
-
-<p align="center">
   ⭐ Thanks for visiting my profile!
 </p>
